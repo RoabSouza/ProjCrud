@@ -1,4 +1,4 @@
-# Projeto Pessoal: [Crud_SistemaPedidios]
+# Projeto Pessoal: [Crud_SistemaPedidos]
 
 Este é um projeto pessoal para o aprendizado utilizando tecnologias [Java/ SpringBoot / Banco de dados H2/ Postman ], com o objetivo de aprimorar o meu aprendizado sobre essas ferramentas
 
